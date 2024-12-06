@@ -2,14 +2,9 @@
  * ICS4UR Computer Science, 12 
  * Brampton, Canada
  *
- * https://github.com/HarisK03/Minesweeper 
- *
  * modified     20201110
  * date         20201104
  * @filename	LoseScreen.java
- * @author      hkamal
- * @version     1.0
- * @see         Lose screen
  */
 
 package minesweeper;
